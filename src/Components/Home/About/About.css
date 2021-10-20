@@ -1,0 +1,19 @@
+.about{
+    display: flex;
+}
+.tag{
+    color: gold;
+}
+.about-text{
+    padding: 20px;
+}
+.about-text1{
+    padding: 50px;
+}
+.must{
+    color: gold;
+}
+.about-title{
+    margin-right: 250px;
+    margin-left: 250px;
+}

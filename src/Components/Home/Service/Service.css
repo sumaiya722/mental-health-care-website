@@ -1,0 +1,17 @@
+.service{
+    background-color: white;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    border-radius: 10px;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray ;
+} 
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
